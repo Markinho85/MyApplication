@@ -5,5 +5,5 @@ package com.dam.alumno.myapplication;
  */
 public class probando {
 
-
+System.out.println("Esto es una prueba");
 }
